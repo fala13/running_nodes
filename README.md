@@ -45,6 +45,8 @@ make build-bsc
     --discovery.port 38303 \
     --authrpc.port 8851
 ```
+# MODE
+https://docs.mode.network/tools/node-operators
 
 # BSC
 First grab a snapshot from here https://github.com/48Club/bsc-snapshots and be sure to use the same options used to collect the snapshot.
